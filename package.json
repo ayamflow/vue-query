@@ -1,0 +1,25 @@
+{
+  "name": "vue-query",
+  "version": "0.0.1",
+  "description": "Vue.js plugin - simple wrapper around el.querySelector/All.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayamflow/vue-query"
+  },
+  "keywords": [
+    "vue.js",
+    "query",
+    "selector",
+    "dom"
+  ],
+  "author": "Florian Morel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/vue-query/issues"
+  },
+  "homepage": "https://github.com/ayamflow/vue-query"
+}
