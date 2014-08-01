@@ -29,6 +29,7 @@ exports.install = function(Vue) {
         return hasClass(el, className);
     },
     addClass: function(className, selector) {
+        if(hasClass(className, selector)) return;
         var el = selector ? this.$el.$findOne(selector) : this.$el;
         return utils.addClass(el, className);
     },
