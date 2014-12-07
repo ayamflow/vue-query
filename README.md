@@ -1,5 +1,6 @@
 vue-query
 =========
+DEPRECATED IN VUE 0.11+: use v-el instead
 
 Vue.js plugin - DOM utils
 Add this.$findOne, this.$find, this.add/removeClass to any Vue instance.
